@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Guys, This is our first CICD pipeline...!!!</h2>
+<h2>Hello Guys, This is our CICD pipeline with Ansible</h2>
 </body>
 </html>
